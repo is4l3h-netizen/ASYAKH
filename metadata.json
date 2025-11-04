@@ -1,0 +1,5 @@
+{
+  "name": "Restaurant Queue Management System",
+  "description": "An advanced, full-stack prototype for a restaurant's reservation and queue management system. It features a modern, responsive UI for customers and a comprehensive dashboard for staff and administrators, with AI-powered wait time estimations using the Gemini API.",
+  "requestFramePermissions": []
+}
